@@ -31,6 +31,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/Aleja84/GitHubUser.git
 cd GitHubUser
+```
 
 ## 🖥️ Usage
 
